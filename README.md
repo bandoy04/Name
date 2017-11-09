@@ -1,5 +1,6 @@
 # Touch Bar Demo App 
 # First Edit
+# Second Edit
 
 <img src="Resources/Screenshot.png" width="100%">
 
