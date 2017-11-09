@@ -1,6 +1,7 @@
 # Touch Bar Demo App 
 # First Edit
 # Second Edit
+# SSH Edit
 
 <img src="Resources/Screenshot.png" width="100%">
 
